@@ -127,7 +127,7 @@ This project utilizes the following C++ libraries:
 Developed by:
 - Avni Rastogi 
 - Anshika Aggarwal 
-- Manayav Vatsal 
+- Manayav Vatsal (@manayavvatsal)
 - Kohsheen Razdan 
 
 ---
